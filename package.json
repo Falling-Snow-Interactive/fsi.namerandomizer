@@ -1,0 +1,17 @@
+{
+  "name": "com.fallingsnowinteractive.namerandomizer",
+  "version": "0.0.1",
+  "displayName": "FSI Name Randomizer",
+  "description": "Falling Snow Interactive Unity name randomizer package.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Name",
+    "Randomizer"
+  ],
+  "author": {
+    "name": "Kira Dinan",
+    "email": "kiradinan.dev@gmail.com"
+  },
+  "hideInEditor": false,
+}
